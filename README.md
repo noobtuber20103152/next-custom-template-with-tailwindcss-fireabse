@@ -1,0 +1,1 @@
+# Custom Next.js template with firebase and tailwind css
